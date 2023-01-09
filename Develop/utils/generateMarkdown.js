@@ -19,8 +19,7 @@ function generateMarkdown(data) {
     3. [Visuals](#visuals)
 2. [Installation](#installation)
 3. [License](#license)
-4. [Tests](#tests)
-5. [Authors and acknowledgment](#authors%20and%20acknowledgment)
+4. [Authors and acknowledgment](#authors%20and%20acknowledgment)
 
 ---
 ## About
@@ -57,11 +56,6 @@ function generateMarkdown(data) {
   License used for this project - ${data.license}
   * For more information on license types, please reference this website
   for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
-
----
-
-## Tests:
-  ${data.test}
 
 ---
 
