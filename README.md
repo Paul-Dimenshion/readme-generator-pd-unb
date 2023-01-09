@@ -81,6 +81,6 @@ SO THAT I can quickly create a professional README for a new project
 ---
 
 ## Contact Information:
-* GitHub Username: @Paul-Dimenshion
+* GitHub Username: [Paul-Dimenshion](https://github.com/Paul-Dimenshion)
 * GitHub Email: p.demenshyn@gmail.com
   
