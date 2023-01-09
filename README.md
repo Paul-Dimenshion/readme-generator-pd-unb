@@ -28,9 +28,9 @@ As a developer, I understand that one of the most important resources is time. I
 
 ## User Story
   
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
+AS A developer  
+I WANT a README generator  
+SO THAT I can quickly create a professional README for a new project  
 ---
 
 ## Acceptance Criteria
