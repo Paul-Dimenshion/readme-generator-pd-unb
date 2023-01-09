@@ -69,6 +69,6 @@
 ---
 
 ## Contact Information:
-* GitHub Username: Paul-Dimenshion
+* GitHub Username: @Paul-Dimenshion
 * GitHub Email: p.demenshyn@gmail.com
   
